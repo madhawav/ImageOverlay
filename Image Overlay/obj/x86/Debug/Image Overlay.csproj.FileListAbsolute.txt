@@ -1,0 +1,16 @@
+c:\users\madhawa\documents\visual studio 2010\Projects\Image Overlay\Image Overlay\bin\Debug\Image Overlay.exe
+c:\users\madhawa\documents\visual studio 2010\Projects\Image Overlay\Image Overlay\bin\Debug\Image Overlay.pdb
+c:\users\madhawa\documents\visual studio 2010\Projects\Image Overlay\Image Overlay\obj\x86\Debug\Image_Overlay.Form1.resources
+c:\users\madhawa\documents\visual studio 2010\Projects\Image Overlay\Image Overlay\obj\x86\Debug\Image_Overlay.Properties.Resources.resources
+c:\users\madhawa\documents\visual studio 2010\Projects\Image Overlay\Image Overlay\obj\x86\Debug\Image Overlay.csproj.GenerateResource.Cache
+c:\users\madhawa\documents\visual studio 2010\Projects\Image Overlay\Image Overlay\obj\x86\Debug\Image Overlay.exe
+c:\users\madhawa\documents\visual studio 2010\Projects\Image Overlay\Image Overlay\obj\x86\Debug\Image Overlay.pdb
+C:\Users\Madhawa\Documents\Visual Studio 2010\Projects\Image Overlay\Image Overlay\obj\x86\Debug\Image Overlay.csprojResolveAssemblyReference.cache
+C:\Users\Madhawa\Desktop\Image Overlay\Image Overlay\obj\x86\Debug\Image Overlay.exe
+C:\Users\Madhawa\Desktop\Image Overlay\Image Overlay\obj\x86\Debug\Image Overlay.pdb
+C:\Users\Madhawa\Desktop\Image Overlay\Image Overlay\bin\Debug\Image Overlay.exe
+C:\Users\Madhawa\Desktop\Image Overlay\Image Overlay\bin\Debug\Image Overlay.pdb
+C:\Users\Madhawa\Desktop\Image Overlay\Image Overlay\obj\x86\Debug\Image Overlay.csprojResolveAssemblyReference.cache
+C:\Users\Madhawa\Desktop\Image Overlay\Image Overlay\obj\x86\Debug\Image_Overlay.Form1.resources
+C:\Users\Madhawa\Desktop\Image Overlay\Image Overlay\obj\x86\Debug\Image_Overlay.Properties.Resources.resources
+C:\Users\Madhawa\Desktop\Image Overlay\Image Overlay\obj\x86\Debug\Image Overlay.csproj.GenerateResource.Cache

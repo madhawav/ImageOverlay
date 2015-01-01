@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Overlay", "Image Overlay\Image Overlay.csproj", "{BE0B9A52-E692-4F7A-B789-5D79A44CFCBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0B9A52-E692-4F7A-B789-5D79A44CFCBB}.Debug|x86.ActiveCfg = Debug|x86
+		{BE0B9A52-E692-4F7A-B789-5D79A44CFCBB}.Debug|x86.Build.0 = Debug|x86
+		{BE0B9A52-E692-4F7A-B789-5D79A44CFCBB}.Release|x86.ActiveCfg = Release|x86
+		{BE0B9A52-E692-4F7A-B789-5D79A44CFCBB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
